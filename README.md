@@ -1,11 +1,7 @@
 - 👋 oii, meu nome é Henry
-- 👀 eu estou interessado em cursos online
+- 👀 eu estou interessado em cursos online,e sou estudante do Leonardo Vilas Boas
 - 🌱 eu estou aprendendo sobre programação no alura
-- 📫 seloko,mo fome
-- 😄 Pronomes: ele e dele
-- ⚡ Fun fact: eu to sempre com fome kikkkkk
-
-<!---
-henrysilva2008/henrysilva2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 eu gosto de comer
+- 😄 não gosto de ficar com fome
+- ⚡ meu sonho é achar alguém que preste pra namorar kkkk- !
+- ![](https://media1.tenor.com/m/WWuKr0zRdGYAAAAC/messi.gif)
